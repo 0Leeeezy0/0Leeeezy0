@@ -1,7 +1,7 @@
 # <b>0Leeeezy0</b>
 - [我的个人工作室 <b>极鹭 | Geek-Egret</b>](http://geek-egret.top)
 
-- [<b>工作室仓库</b>](https://github.com/0Leeeezy0)
+- [<b>工作室仓库</b>](https://github.com/Geek-Egret)
 
 - 信息类在读大学牲😂
 
